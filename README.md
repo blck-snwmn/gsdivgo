@@ -1,3 +1,5 @@
+Retrieve data from Google Spreadsheet and write it to a file.
+
 ## Getting Started
 1. **Service Account**: To use this tool, you need to create a Service Account.
 2. **Generate a Key**: Generate a key associated with the Service Account, and save it as credentials.json.
